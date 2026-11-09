@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.gurobi.log
+.env
+.venv/

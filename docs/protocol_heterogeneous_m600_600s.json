@@ -1,0 +1,12 @@
+{
+  "campaign": "heterogeneous_m600_600s",
+  "penalty": 600,
+  "task_counts": [100, 500, 1000],
+  "instance_seeds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "volume_rule": "Each task volume is independently drawn from {1, 2, 3} GB using a dedicated seed stream; the mean demand is 2 GB.",
+  "algorithms": ["P&B", "GRASP", "ALNS"],
+  "grasp_restarts": 20,
+  "alns_time_limit_seconds": 600,
+  "alns_max_iterations": 10000,
+  "source_records": "The raw JSON records are supplied in the accompanying experimental archive."
+}

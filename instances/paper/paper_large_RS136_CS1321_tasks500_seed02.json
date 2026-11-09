@@ -1,0 +1,47 @@
+{
+  "instance_id": "paper_large_RS136_CS1321_tasks500_seed02",
+  "metadata": {
+    "rs_count": 136,
+    "cs_count": 1321,
+    "tasks": 500,
+    "seed": 2,
+    "subset": 0.25,
+    "time_window": {
+      "start": 0.0,
+      "end": 180.0
+    },
+    "slot_duration_seconds": 200,
+    "num_slots": 54
+  },
+  "constellation": {
+    "rs_layer": {
+      "count": 136,
+      "source": "planet.tle (real SKYSAT/FLOCK TLE data)",
+      "altitude_km": "319-612 (real satellite altitudes)",
+      "inclination_deg": "97.0 (sun-synchronous, range 96.9-98.4)"
+    },
+    "cs_layer": {
+      "count": 1321,
+      "source": "starlink.tle (real Starlink TLE data)",
+      "altitude_km": "543-547 (clustered around 550km)",
+      "inclination_deg": "53.1-53.2 (Starlink Shell 1)"
+    }
+  },
+  "ground_stations": {
+    "Beijing": {
+      "lat": 39.9,
+      "lon": 116.4,
+      "bandwidth": 20000
+    },
+    "Shanghai": {
+      "lat": 31.2,
+      "lon": 121.5,
+      "bandwidth": 20000
+    },
+    "Guangzhou": {
+      "lat": 23.1,
+      "lon": 113.3,
+      "bandwidth": 20000
+    }
+  }
+}

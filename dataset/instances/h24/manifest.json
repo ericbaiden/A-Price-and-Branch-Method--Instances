@@ -1,0 +1,242 @@
+{
+  "10000_00": {
+    "graph_edges": 5410157,
+    "graph_nodes": 1592732,
+    "horizon_hours": 24.0,
+    "instance_sha256": "4d14700b0936ba05d1b30d6ae80b97f8d8b728cbf52cbd5b1e4e84d8cdde98fc",
+    "seed": 0,
+    "tasks": 10000
+  },
+  "10000_01": {
+    "graph_edges": 5418342,
+    "graph_nodes": 1592350,
+    "horizon_hours": 24.0,
+    "instance_sha256": "d4698f989f324154d6520cfcdf36c4d29d696be43f5b594fcbed9391b507eb61",
+    "seed": 1,
+    "tasks": 10000
+  },
+  "10000_02": {
+    "graph_edges": 5403608,
+    "graph_nodes": 1584096,
+    "horizon_hours": 24.0,
+    "instance_sha256": "fc935f9730123de4402bca9efe49033a93aa0173efa2e61e25dcdc0346032cee",
+    "seed": 2,
+    "tasks": 10000
+  },
+  "1000_00": {
+    "graph_edges": 4424662,
+    "graph_nodes": 1299073,
+    "horizon_hours": 24.0,
+    "instance_sha256": "0de06932f10a98e42c92d61db473a0661e45034b06ce6f9ba4c03fa3913539a4",
+    "seed": 0,
+    "tasks": 1000
+  },
+  "1000_01": {
+    "graph_edges": 4420738,
+    "graph_nodes": 1299519,
+    "horizon_hours": 24.0,
+    "instance_sha256": "61c7c94982e7dc0e2239d22b001155a829a6aac1174738da07f456fae69bd429",
+    "seed": 1,
+    "tasks": 1000
+  },
+  "1000_02": {
+    "graph_edges": 4423429,
+    "graph_nodes": 1302126,
+    "horizon_hours": 24.0,
+    "instance_sha256": "12ec71f7feaddce0dba3853ebeb25307b44684b4ad4af2b5d9d3e684b45134a8",
+    "seed": 2,
+    "tasks": 1000
+  },
+  "2000_00": {
+    "graph_edges": 4532187,
+    "graph_nodes": 1334202,
+    "horizon_hours": 24.0,
+    "instance_sha256": "55d8bd1c1978a2806d8e8fb98639774d8a3c34c480a530907986bac60800db50",
+    "seed": 0,
+    "tasks": 2000
+  },
+  "2000_01": {
+    "graph_edges": 4524042,
+    "graph_nodes": 1331268,
+    "horizon_hours": 24.0,
+    "instance_sha256": "a397374f0a0f60661643a57621c859c5294b2166231c93b3a20a7b0fd4df3e32",
+    "seed": 1,
+    "tasks": 2000
+  },
+  "2000_02": {
+    "graph_edges": 4526756,
+    "graph_nodes": 1332033,
+    "horizon_hours": 24.0,
+    "instance_sha256": "013cae27be4b7c61729e5a5e9006d7aa54e9db3ce54ec54ec465f6c60f9b662d",
+    "seed": 2,
+    "tasks": 2000
+  },
+  "3000_00": {
+    "graph_edges": 4637139,
+    "graph_nodes": 1365500,
+    "horizon_hours": 24.0,
+    "instance_sha256": "5094222dfeec085ff77b5f19c2c66ee0049f765110b81bd72ac890cc64166fa7",
+    "seed": 0,
+    "tasks": 3000
+  },
+  "3000_01": {
+    "graph_edges": 4635054,
+    "graph_nodes": 1362574,
+    "horizon_hours": 24.0,
+    "instance_sha256": "17e5f6eea119a8667846d7c707697bc7b879d399d17f3a7cd35e4e7916e6b079",
+    "seed": 1,
+    "tasks": 3000
+  },
+  "3000_02": {
+    "graph_edges": 4640964,
+    "graph_nodes": 1367508,
+    "horizon_hours": 24.0,
+    "instance_sha256": "a937290176221a98660d0f36bd7b59c09b07544f4067f6fbd833b1bcc1609ca6",
+    "seed": 2,
+    "tasks": 3000
+  },
+  "4000_00": {
+    "graph_edges": 4760798,
+    "graph_nodes": 1395299,
+    "horizon_hours": 24.0,
+    "instance_sha256": "9454bb8323c75ff35449a32c4cf0e2de4d364476aefc619556190b8342c597fa",
+    "seed": 0,
+    "tasks": 4000
+  },
+  "4000_01": {
+    "graph_edges": 4776118,
+    "graph_nodes": 1397753,
+    "horizon_hours": 24.0,
+    "instance_sha256": "32acb54748e8599950c188d2f3ffb235112888e5484e36c7c0a32baaeaff02a1",
+    "seed": 1,
+    "tasks": 4000
+  },
+  "4000_02": {
+    "graph_edges": 4746352,
+    "graph_nodes": 1397097,
+    "horizon_hours": 24.0,
+    "instance_sha256": "ce70c14620df81c2c798bf2547dbb9440e4f3f1c5a07f5ee1a6f89ea55df32ff",
+    "seed": 2,
+    "tasks": 4000
+  },
+  "5000_00": {
+    "graph_edges": 4856236,
+    "graph_nodes": 1425706,
+    "horizon_hours": 24.0,
+    "instance_sha256": "7c5006b9f9b134928cc0253fae740e534bb722363d908b010241c27e41529c47",
+    "seed": 0,
+    "tasks": 5000
+  },
+  "5000_01": {
+    "graph_edges": 4855071,
+    "graph_nodes": 1426397,
+    "horizon_hours": 24.0,
+    "instance_sha256": "be6a0699ddd2229f8fb6a7a29e74123764369cfc0e5e7c8b1e524cd2342e76c2",
+    "seed": 1,
+    "tasks": 5000
+  },
+  "5000_02": {
+    "graph_edges": 4862784,
+    "graph_nodes": 1427605,
+    "horizon_hours": 24.0,
+    "instance_sha256": "f7f2a7725ef5f9a8561ef584820a423542076657e9868356ab03b975843c3816",
+    "seed": 2,
+    "tasks": 5000
+  },
+  "6000_00": {
+    "graph_edges": 4973548,
+    "graph_nodes": 1459005,
+    "horizon_hours": 24.0,
+    "instance_sha256": "553e28a344c707372de0b8b5b79bb363d3123682202cfea8747ced800d930d74",
+    "seed": 0,
+    "tasks": 6000
+  },
+  "6000_01": {
+    "graph_edges": 4970691,
+    "graph_nodes": 1452688,
+    "horizon_hours": 24.0,
+    "instance_sha256": "89b521dc42631bb87a912819bc55dfc3497e4830d52acc95d5a0d87b50558ccc",
+    "seed": 1,
+    "tasks": 6000
+  },
+  "6000_02": {
+    "graph_edges": 4958550,
+    "graph_nodes": 1460004,
+    "horizon_hours": 24.0,
+    "instance_sha256": "000e8f73be1ba9b599eabd34fc1bf24d288058305c8340144eefa83f29bce997",
+    "seed": 2,
+    "tasks": 6000
+  },
+  "7000_00": {
+    "graph_edges": 5079612,
+    "graph_nodes": 1488573,
+    "horizon_hours": 24.0,
+    "instance_sha256": "448073a43f8981f40d05e53cb5bd0b44bf24480377e1c372f19cba3c74adfb8f",
+    "seed": 0,
+    "tasks": 7000
+  },
+  "7000_01": {
+    "graph_edges": 5079447,
+    "graph_nodes": 1494618,
+    "horizon_hours": 24.0,
+    "instance_sha256": "e7ee03c68d362c597abbea52a9d202605a318432839b62f73ad8299238006045",
+    "seed": 1,
+    "tasks": 7000
+  },
+  "7000_02": {
+    "graph_edges": 5083805,
+    "graph_nodes": 1488609,
+    "horizon_hours": 24.0,
+    "instance_sha256": "bdd6456798526d289c73150a5dfb9d3c9f607123eefc3a35fe4b16e78e72ae04",
+    "seed": 2,
+    "tasks": 7000
+  },
+  "8000_00": {
+    "graph_edges": 5188314,
+    "graph_nodes": 1524006,
+    "horizon_hours": 24.0,
+    "instance_sha256": "7ea39935b45e694d7da241e88bff4ddae409da75883fdbfe4888cf9e5d4a9f9b",
+    "seed": 0,
+    "tasks": 8000
+  },
+  "8000_01": {
+    "graph_edges": 5202618,
+    "graph_nodes": 1525237,
+    "horizon_hours": 24.0,
+    "instance_sha256": "c90f491e6035faca99351d93df9665ec6b1005a69db81aa384ac76cc34d8c0fa",
+    "seed": 1,
+    "tasks": 8000
+  },
+  "8000_02": {
+    "graph_edges": 5197131,
+    "graph_nodes": 1528732,
+    "horizon_hours": 24.0,
+    "instance_sha256": "25974114f28d759bedd700f102204a144539859f25bdedea6691496f3ad5afc2",
+    "seed": 2,
+    "tasks": 8000
+  },
+  "9000_00": {
+    "graph_edges": 5302227,
+    "graph_nodes": 1554535,
+    "horizon_hours": 24.0,
+    "instance_sha256": "365c9eb49b6d25743b7b791b5137915093cfadfc2a30726488c3ec02b2501eec",
+    "seed": 0,
+    "tasks": 9000
+  },
+  "9000_01": {
+    "graph_edges": 5325252,
+    "graph_nodes": 1561327,
+    "horizon_hours": 24.0,
+    "instance_sha256": "7d2539a2489a4eb4673707734a7541b24945e7106d5d87f569eb0f85433fff77",
+    "seed": 1,
+    "tasks": 9000
+  },
+  "9000_02": {
+    "graph_edges": 5310904,
+    "graph_nodes": 1558586,
+    "horizon_hours": 24.0,
+    "instance_sha256": "f59755eadd39e5977984fdfd2e9814e75b0c39126adf6b20185b0b914c283fdf",
+    "seed": 2,
+    "tasks": 9000
+  }
+}

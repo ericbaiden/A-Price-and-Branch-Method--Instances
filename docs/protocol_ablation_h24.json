@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "penalty": 600,
+  "horizon_hours": 24.0,
+  "tasks": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "variants": [
+    "A*+filter",
+    "A* no filter",
+    "Dijkstra+filter",
+    "Dijkstra no filter"
+  ],
+  "k_alt": 1,
+  "max_iterations": 200,
+  "instances": "frozen dataset/instances/h24, identical to the algorithm comparison",
+  "variant_order": "rotated by seed modulo four",
+  "timing": "perf_counter wall clock from solver initialization through schedule extraction; includes master construction, CG, internal certification, final full-pricing confirmation and integer recovery; excludes instance/graph construction, independent audit and output I/O",
+  "effective_variant_sha256": "c6a92e93c001fc10bfe72d25d6815dc55b62792559984abf3c1a181368fe510b",
+  "driver_sha256": "7c3af5692860846ae414b4ccea3825aba6842de7b765e5feda313a67d6651c58",
+  "native_dll_sha256": "5bd99008de283a15eac11413317c060ab20209525127432dda2977b836f54f0a",
+  "environment": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "gurobi_threads": 8,
+    "execution": "sequential; fresh master for every variant"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "instance_id": "validation_medium_RS10_CS50_tasks100_seed06",
+  "metadata": {
+    "config_name": "validation_medium",
+    "rs_count": 10,
+    "cs_count": 50,
+    "tasks": 100,
+    "seed": 6,
+    "subset": 0.25,
+    "time_window": {
+      "start": 0.0,
+      "end": 180.0
+    },
+    "slot_duration_seconds": 200,
+    "num_slots": 54
+  },
+  "constellation": {
+    "rs_layer": {
+      "count": 10,
+      "source": "planet.tle (SKYSAT/FLOCK real TLE data)",
+      "altitude_km": "319-612 (real satellite altitudes)",
+      "inclination_deg": "97.0 (sun-synchronous orbit, range 96.9-98.4)",
+      "description": "Real Earth observation satellites with varied altitudes and inclinations"
+    },
+    "cs_layer": {
+      "count": 50,
+      "source": "starlink.tle (Starlink real TLE data, filtered to 550km, 53\u00b0)",
+      "altitude_km": "543-547 (clustered around 550km)",
+      "inclination_deg": "53.1-53.2 (Starlink Shell 1)",
+      "description": "Starlink communication satellites in 53\u00b0 inclination shell"
+    }
+  },
+  "ground_stations": {
+    "Beijing": {
+      "lat": 39.9,
+      "lon": 116.4,
+      "bandwidth": 20000
+    },
+    "Shanghai": {
+      "lat": 31.2,
+      "lon": 121.5,
+      "bandwidth": 20000
+    },
+    "Guangzhou": {
+      "lat": 23.1,
+      "lon": 113.3,
+      "bandwidth": 20000
+    }
+  },
+  "links": {
+    "isl_range_km": 2500,
+    "downlink_bandwidth_mbps": 1000
+  },
+  "costs": {
+    "hop_based": true,
+    "imaging": 1.0,
+    "isl": 1.0,
+    "downlink": 1.0,
+    "storage": 10.0,
+    "wait": 10.0
+  },
+  "result_file": "results/ablation_RS10_CS50_seed6_{timestamp}.json"
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "penalty": 600,
+  "task_counts": [
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000
+  ],
+  "instance_seeds": [
+    0,
+    1,
+    2
+  ],
+  "rs_count": 136,
+  "cs_count": 1321,
+  "alns_random_seed": "10000 + instance_seed",
+  "alns_time_limit": 600.0,
+  "alns_max_iterations": 10000,
+  "grasp_restarts": 20,
+  "grasp_random_seed": "20000 + instance_seed",
+  "destroy_operators": [
+    "random",
+    "cost",
+    "bottleneck",
+    "conflict"
+  ],
+  "repair_operators": [
+    "randomized_priority_RCL_0.3",
+    "noisy_savings_0.8_1.2",
+    "regret2_sampled_shortlist_12_alternative_acquisition"
+  ],
+  "removal_fraction": [
+    0.05,
+    0.25
+  ],
+  "weight_segment": 25,
+  "reaction": 0.2,
+  "operator_rewards": {
+    "global_best": 8,
+    "current_improvement": 4,
+    "accepted": 1,
+    "rejected": 0
+  },
+  "annealing": "T0=0.01*z_initial/log(2); T(t)=T0*0.001**(elapsed/time_limit)",
+  "alns_budget": "time_limit bounds the adaptive search only; residual-router setup, unconstrained path estimates and the initial construction are timed separately and reported as preprocessing_time and construction_time. GRASP is likewise bounded by its 20 restarts, not a clock, so neither heuristic is charged for bootstrapping.",
+  "timing": "solve time includes all algorithm setup, initialization, search, certification and integer recovery; input graph construction and independent validation excluded",
+  "time_limit_check": "between shortest-path calls; operator computation and one call may overrun slightly",
+  "instances": "original TLE generator; unit-volume tasks and common VGS; physical contacts cached, all task layers regenerated from seed",
+  "comparators": "fresh P&B A*+filter k=1 with exact full pricing certification; fresh 20-start residual GRASP using same exact shortest-path primitive as ALNS",
+  "source_fingerprint": "3958f8b78812fa6c9de269926947af042c79d12ed05bd2f7cfd7875b21059b78",
+  "source_sha256": {
+    "run_alns_benchmark_m600.py": "428f3eee1edc976e9da089ddbb0940ec2aeab04703805b863eb042f836f1b812",
+    "experiments.py": "f74b81b67c4b379672d85e4268b143c87d0c3835835ae2d3c73d67860d5713d8",
+    "alns_validation.py": "8dc27652d36aaca7612bc51a1b6d0535fdf12506343d098c8963840c87407eca",
+    "Solver/__init__.py": "a41ddaa1992c4d955e6425a91a116decd2e123ffab78fa80a1b8a80f63c16dfc",
+    "Solver/A_star.py": "3c33b77c695dfdf2e341ad7dd42503bb26f43a6dde018700f25a90985ca178f8",
+    "Solver/alns.py": "734e8bbb43497c19759cd9d4b44744e3f267e630fd83ccda913bdc5e9b3216ee",
+    "Solver/branch_and_price.py": "e2ab7d8eb7f3e8c673779c40864af59c8f446dea4e4e88d7e952aa6ac94cca79",
+    "Solver/column_generation.py": "40dadbfb5ba76cbb63899b8bbc0605d103d19d0e9fb83bd6cb08d76e74539c42",
+    "Solver/Dijkstra.py": "b0f6e5e51070cae06dbfbc67f42439215edc135fe58250b82b8cf2dd42ee0708",
+    "Solver/grasp_validation.py": "54d517a4e9687152b8a47ca3facf0c8eefbf7560cc69411f193dd4347b7bbebf",
+    "Solver/native_pricing.py": "d455fdf1d5e2ba8523f36af15691ac0358a6346e491e26a139266613841b5d4c",
+    "Generator/__init__.py": "e7de55814d57a305921cbc94be1440f4c28defa480a6591a85dee83221e34646",
+    "Generator/instance_generator.py": "fe97b09c8056897b111cfdde0cf8efc6bbf7f004fdf48e62a65864956ef4e4c1",
+    "Generator/satellite_generator.py": "fb7fbd031c7d0e6a67d5cf790d9049a53ea19898201f9ca0b3ba95d350ec1167",
+    "Generator/tle_fetcher.py": "7974817cd55a542c76f362dd7d4adaf0b4ab4446ce11bcd8d8da3829a69018d6",
+    "Generator/tle_parser.py": "7d41c3dd05a9a0144ca3893dcf45be21c2b90417c5e243a79b44875a0d0d662f",
+    "Generator/visibility_calculator.py": "9f46412116211359472064051f4cafc0b7f391c56dd9ac857ac61f5a8502855f",
+    "Solver/native/shortest_path.cpp": "9cee7d0052145bcdbc9ca54cdec3b27837e45468932a2f1b81e7992264d0c86b",
+    "Solver/native/shortest_path.dll": "5bd99008de283a15eac11413317c060ab20209525127432dda2977b836f54f0a",
+    "data/tle/planet.tle": "68a560e9f1245b4efa64f4cada48fa4e97098c23d9f5f0405d37ae0561b39116",
+    "data/tle/starlink.tle": "c3f5d59b861769563f075f74f248b156f2b7a38939ae1cc1d40d3441610b1509"
+  },
+  "environment": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "networkx": "3.3",
+    "numpy": "2.5.3",
+    "gurobi": [
+      13,
+      0,
+      3
+    ],
+    "ram_bytes": 33752997888,
+    "cpu": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "cpu_model": "Intel Core Ultra 9 290HX Plus",
+    "logical_cpus": 24,
+    "execution": "one case and one algorithm at a time; heuristics single-threaded; Gurobi Threads=8"
+  }
+}

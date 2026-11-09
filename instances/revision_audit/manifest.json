@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rs10_cs50_tasks50_seed0.json.gz",
+    "sha256": "95403fc219ba283eea886879dc8da1a715de3e3415f0406a541dd08b020fdb1a",
+    "nodes": 8372,
+    "edges": 27699,
+    "tasks": 50
+  },
+  {
+    "file": "rs136_cs1321_tasks500_seed0.json.gz",
+    "sha256": "6c7593810ec8b153546ec2ad447ab5841e49cf4d4be7bd112be70a2727414af8",
+    "nodes": 172144,
+    "edges": 616835,
+    "tasks": 500
+  }
+]
