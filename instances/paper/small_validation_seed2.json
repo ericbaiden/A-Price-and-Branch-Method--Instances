@@ -1,0 +1,1688 @@
+{
+  "metadata": {
+    "rs_count": 10,
+    "cs_count": 50,
+    "time_window": {
+      "start": 0.0,
+      "end": 180.0
+    },
+    "num_time_slots": 54,
+    "num_tasks": 30,
+    "ground_stations": [
+      "Beijing",
+      "Shanghai",
+      "Guangzhou"
+    ]
+  },
+  "tasks": [
+    {
+      "task_id": "task_0",
+      "target_lat": 45.03,
+      "target_lon": 162.54,
+      "data_volume": 1.0,
+      "priority": 5.169787969988466,
+      "release_slot": 3,
+      "deadline_slot": 32
+    },
+    {
+      "task_id": "task_1",
+      "target_lat": -52.66,
+      "target_lon": -45.8,
+      "data_volume": 1.0,
+      "priority": 3.7857156266923693,
+      "release_slot": 17,
+      "deadline_slot": 48
+    },
+    {
+      "task_id": "task_2",
+      "target_lat": -28.83,
+      "target_lon": -40.72,
+      "data_volume": 1.0,
+      "priority": 3.614124439567601,
+      "release_slot": 15,
+      "deadline_slot": 45
+    },
+    {
+      "task_id": "task_3",
+      "target_lat": 0.36,
+      "target_lon": -43.92,
+      "data_volume": 1.0,
+      "priority": 3.784575524844139,
+      "release_slot": 40,
+      "deadline_slot": 41
+    },
+    {
+      "task_id": "task_4",
+      "target_lat": 5.96,
+      "target_lon": -23.28,
+      "data_volume": 1.0,
+      "priority": 9.583223940219119,
+      "release_slot": 14,
+      "deadline_slot": 43
+    },
+    {
+      "task_id": "task_5",
+      "target_lat": -51.64,
+      "target_lon": 156.66,
+      "data_volume": 1.0,
+      "priority": 1.0321609011856219,
+      "release_slot": 23,
+      "deadline_slot": 51
+    },
+    {
+      "task_id": "task_6",
+      "target_lat": -33.5,
+      "target_lon": 150.65,
+      "data_volume": 1.0,
+      "priority": 2.886376792950777,
+      "release_slot": 24,
+      "deadline_slot": 52
+    },
+    {
+      "task_id": "task_7",
+      "target_lat": -11.68,
+      "target_lon": -22.8,
+      "data_volume": 1.0,
+      "priority": 5.957971414778243,
+      "release_slot": 42,
+      "deadline_slot": 44
+    },
+    {
+      "task_id": "task_8",
+      "target_lat": 11.05,
+      "target_lon": -55.35,
+      "data_volume": 1.0,
+      "priority": 5.85476322710112,
+      "release_slot": 39,
+      "deadline_slot": 40
+    },
+    {
+      "task_id": "task_9",
+      "target_lat": 47.18,
+      "target_lon": 116.96,
+      "data_volume": 1.0,
+      "priority": 1.2079752145920737,
+      "release_slot": 30,
+      "deadline_slot": 31
+    },
+    {
+      "task_id": "task_10",
+      "target_lat": 0.33,
+      "target_lon": 164.43,
+      "data_volume": 1.0,
+      "priority": 4.150948396834861,
+      "release_slot": 0,
+      "deadline_slot": 29
+    },
+    {
+      "task_id": "task_11",
+      "target_lat": 40.93,
+      "target_lon": 163.54,
+      "data_volume": 1.0,
+      "priority": 2.232661136380809,
+      "release_slot": 3,
+      "deadline_slot": 30
+    },
+    {
+      "task_id": "task_12",
+      "target_lat": -29.85,
+      "target_lon": 137.24,
+      "data_volume": 1.0,
+      "priority": 4.84639722476159,
+      "release_slot": 25,
+      "deadline_slot": 26
+    },
+    {
+      "task_id": "task_13",
+      "target_lat": -58.19,
+      "target_lon": 141.45,
+      "data_volume": 1.0,
+      "priority": 8.114698289225254,
+      "release_slot": 23,
+      "deadline_slot": 52
+    },
+    {
+      "task_id": "task_14",
+      "target_lat": 28.66,
+      "target_lon": 130.1,
+      "data_volume": 1.0,
+      "priority": 4.853848528308209,
+      "release_slot": 29,
+      "deadline_slot": 30
+    },
+    {
+      "task_id": "task_15",
+      "target_lat": -59.6,
+      "target_lon": 152.92,
+      "data_volume": 1.0,
+      "priority": 2.5205280257614517,
+      "release_slot": 22,
+      "deadline_slot": 52
+    },
+    {
+      "task_id": "task_16",
+      "target_lat": 48.46,
+      "target_lon": 116.03,
+      "data_volume": 1.0,
+      "priority": 5.255815708812029,
+      "release_slot": 30,
+      "deadline_slot": 31
+    },
+    {
+      "task_id": "task_17",
+      "target_lat": -39.52,
+      "target_lon": -55.81,
+      "data_volume": 1.0,
+      "priority": 6.624211583448327,
+      "release_slot": 44,
+      "deadline_slot": 45
+    },
+    {
+      "task_id": "task_18",
+      "target_lat": -54.78,
+      "target_lon": -37.75,
+      "data_volume": 1.0,
+      "priority": 3.75690902952124,
+      "release_slot": 17,
+      "deadline_slot": 48
+    },
+    {
+      "task_id": "task_19",
+      "target_lat": -22.62,
+      "target_lon": 136.91,
+      "data_volume": 1.0,
+      "priority": 2.6300930348402227,
+      "release_slot": 25,
+      "deadline_slot": 26
+    },
+    {
+      "task_id": "task_20",
+      "target_lat": 8.06,
+      "target_lon": -26.08,
+      "data_volume": 1.0,
+      "priority": 7.574815293641926,
+      "release_slot": 13,
+      "deadline_slot": 42
+    },
+    {
+      "task_id": "task_21",
+      "target_lat": -28.35,
+      "target_lon": 149.01,
+      "data_volume": 1.0,
+      "priority": 1.242515634736997,
+      "release_slot": 25,
+      "deadline_slot": 26
+    },
+    {
+      "task_id": "task_22",
+      "target_lat": -33.56,
+      "target_lon": -54.06,
+      "data_volume": 1.0,
+      "priority": 6.174207913511626,
+      "release_slot": 42,
+      "deadline_slot": 44
+    },
+    {
+      "task_id": "task_23",
+      "target_lat": -52.46,
+      "target_lon": -68.9,
+      "data_volume": 1.0,
+      "priority": 2.429603017882528,
+      "release_slot": 45,
+      "deadline_slot": 46
+    },
+    {
+      "task_id": "task_24",
+      "target_lat": 59.39,
+      "target_lon": 117.41,
+      "data_volume": 1.0,
+      "priority": 8.778303564215246,
+      "release_slot": 31,
+      "deadline_slot": 33
+    },
+    {
+      "task_id": "task_25",
+      "target_lat": 29.78,
+      "target_lon": -41.45,
+      "data_volume": 1.0,
+      "priority": 8.193079093320328,
+      "release_slot": 38,
+      "deadline_slot": 39
+    },
+    {
+      "task_id": "task_26",
+      "target_lat": -35.9,
+      "target_lon": -40.2,
+      "data_volume": 1.0,
+      "priority": 4.002819190976728,
+      "release_slot": 16,
+      "deadline_slot": 46
+    },
+    {
+      "task_id": "task_27",
+      "target_lat": -0.35,
+      "target_lon": -30.63,
+      "data_volume": 1.0,
+      "priority": 5.011319773781154,
+      "release_slot": 13,
+      "deadline_slot": 15
+    },
+    {
+      "task_id": "task_28",
+      "target_lat": 53.09,
+      "target_lon": -46.34,
+      "data_volume": 1.0,
+      "priority": 7.101490991311527,
+      "release_slot": 36,
+      "deadline_slot": 38
+    },
+    {
+      "task_id": "task_29",
+      "target_lat": 49.62,
+      "target_lon": -18.13,
+      "data_volume": 1.0,
+      "priority": 4.706362805526227,
+      "release_slot": 9,
+      "deadline_slot": 39
+    }
+  ],
+  "satellites": [
+    {
+      "sat_id": "43802",
+      "sat_type": "RS",
+      "altitude": 318.9483401821062,
+      "inclination": 96.927
+    },
+    {
+      "sat_id": "58296",
+      "sat_type": "RS",
+      "altitude": 367.1648866375481,
+      "inclination": 97.4024
+    },
+    {
+      "sat_id": "58285",
+      "sat_type": "RS",
+      "altitude": 412.9439115422774,
+      "inclination": 97.3903
+    },
+    {
+      "sat_id": "62678",
+      "sat_type": "RS",
+      "altitude": 488.0958709937322,
+      "inclination": 97.4016
+    },
+    {
+      "sat_id": "60494",
+      "sat_type": "RS",
+      "altitude": 454.8556097742512,
+      "inclination": 97.3728
+    },
+    {
+      "sat_id": "62645",
+      "sat_type": "RS",
+      "altitude": 488.3508229921581,
+      "inclination": 97.4008
+    },
+    {
+      "sat_id": "62613",
+      "sat_type": "RS",
+      "altitude": 486.9701853566521,
+      "inclination": 97.4008
+    },
+    {
+      "sat_id": "60514",
+      "sat_type": "RS",
+      "altitude": 455.86658487053774,
+      "inclination": 97.3786
+    },
+    {
+      "sat_id": "42989",
+      "sat_type": "RS",
+      "altitude": 452.6724355621045,
+      "inclination": 97.4347
+    },
+    {
+      "sat_id": "60490",
+      "sat_type": "RS",
+      "altitude": 464.38253585397524,
+      "inclination": 97.3777
+    },
+    {
+      "sat_id": "53412",
+      "sat_type": "CS",
+      "altitude": 546.8882780598042,
+      "inclination": 53.219
+    },
+    {
+      "sat_id": "54798",
+      "sat_type": "CS",
+      "altitude": 546.8930310903506,
+      "inclination": 53.2163
+    },
+    {
+      "sat_id": "53175",
+      "sat_type": "CS",
+      "altitude": 546.8104884628701,
+      "inclination": 53.2176
+    },
+    {
+      "sat_id": "53792",
+      "sat_type": "CS",
+      "altitude": 546.8784266276352,
+      "inclination": 53.2158
+    },
+    {
+      "sat_id": "53030",
+      "sat_type": "CS",
+      "altitude": 546.8837665091032,
+      "inclination": 53.2164
+    },
+    {
+      "sat_id": "53905",
+      "sat_type": "CS",
+      "altitude": 546.8614381093439,
+      "inclination": 53.216
+    },
+    {
+      "sat_id": "53535",
+      "sat_type": "CS",
+      "altitude": 546.899119871955,
+      "inclination": 53.2175
+    },
+    {
+      "sat_id": "53750",
+      "sat_type": "CS",
+      "altitude": 546.8273544067051,
+      "inclination": 53.2164
+    },
+    {
+      "sat_id": "52543",
+      "sat_type": "CS",
+      "altitude": 546.8874344359429,
+      "inclination": 53.2168
+    },
+    {
+      "sat_id": "49751",
+      "sat_type": "CS",
+      "altitude": 546.8831307356113,
+      "inclination": 53.2182
+    },
+    {
+      "sat_id": "49734",
+      "sat_type": "CS",
+      "altitude": 546.8951982304598,
+      "inclination": 53.217
+    },
+    {
+      "sat_id": "53010",
+      "sat_type": "CS",
+      "altitude": 546.9016079622688,
+      "inclination": 53.2159
+    },
+    {
+      "sat_id": "53589",
+      "sat_type": "CS",
+      "altitude": 546.8741962995473,
+      "inclination": 53.218
+    },
+    {
+      "sat_id": "52680",
+      "sat_type": "CS",
+      "altitude": 546.888693758614,
+      "inclination": 53.2167
+    },
+    {
+      "sat_id": "53142",
+      "sat_type": "CS",
+      "altitude": 546.8990648527833,
+      "inclination": 53.2176
+    },
+    {
+      "sat_id": "53396",
+      "sat_type": "CS",
+      "altitude": 546.8843014147978,
+      "inclination": 53.2164
+    },
+    {
+      "sat_id": "53842",
+      "sat_type": "CS",
+      "altitude": 546.909741649044,
+      "inclination": 53.2163
+    },
+    {
+      "sat_id": "51895",
+      "sat_type": "CS",
+      "altitude": 546.8817888872318,
+      "inclination": 53.2174
+    },
+    {
+      "sat_id": "53978",
+      "sat_type": "CS",
+      "altitude": 546.8977229966767,
+      "inclination": 53.2181
+    },
+    {
+      "sat_id": "52092",
+      "sat_type": "CS",
+      "altitude": 546.9002080291148,
+      "inclination": 53.2164
+    },
+    {
+      "sat_id": "52370",
+      "sat_type": "CS",
+      "altitude": 546.8884370034593,
+      "inclination": 53.2186
+    },
+    {
+      "sat_id": "52358",
+      "sat_type": "CS",
+      "altitude": 546.9005412009146,
+      "inclination": 53.2175
+    },
+    {
+      "sat_id": "49724",
+      "sat_type": "CS",
+      "altitude": 546.8909311973912,
+      "inclination": 53.2175
+    },
+    {
+      "sat_id": "52002",
+      "sat_type": "CS",
+      "altitude": 546.9010424870012,
+      "inclination": 53.2168
+    },
+    {
+      "sat_id": "52697",
+      "sat_type": "CS",
+      "altitude": 546.8890360988544,
+      "inclination": 53.2171
+    },
+    {
+      "sat_id": "51995",
+      "sat_type": "CS",
+      "altitude": 546.8789707020924,
+      "inclination": 53.2161
+    },
+    {
+      "sat_id": "51791",
+      "sat_type": "CS",
+      "altitude": 546.8792610789533,
+      "inclination": 53.2163
+    },
+    {
+      "sat_id": "53794",
+      "sat_type": "CS",
+      "altitude": 546.8915578028382,
+      "inclination": 53.2162
+    },
+    {
+      "sat_id": "53001",
+      "sat_type": "CS",
+      "altitude": 546.7287613084554,
+      "inclination": 53.2172
+    },
+    {
+      "sat_id": "53804",
+      "sat_type": "CS",
+      "altitude": 546.887376360396,
+      "inclination": 53.2182
+    },
+    {
+      "sat_id": "53977",
+      "sat_type": "CS",
+      "altitude": 546.894220113415,
+      "inclination": 53.2195
+    },
+    {
+      "sat_id": "52103",
+      "sat_type": "CS",
+      "altitude": 546.8590906576601,
+      "inclination": 53.2158
+    },
+    {
+      "sat_id": "53536",
+      "sat_type": "CS",
+      "altitude": 546.9017027175951,
+      "inclination": 53.2185
+    },
+    {
+      "sat_id": "53285",
+      "sat_type": "CS",
+      "altitude": 546.8750613155298,
+      "inclination": 53.2182
+    },
+    {
+      "sat_id": "53841",
+      "sat_type": "CS",
+      "altitude": 546.8857991512932,
+      "inclination": 53.2181
+    },
+    {
+      "sat_id": "54096",
+      "sat_type": "CS",
+      "altitude": 546.8780201001609,
+      "inclination": 53.2159
+    },
+    {
+      "sat_id": "52986",
+      "sat_type": "CS",
+      "altitude": 546.8560585355144,
+      "inclination": 53.2168
+    },
+    {
+      "sat_id": "53006",
+      "sat_type": "CS",
+      "altitude": 546.8842708487546,
+      "inclination": 53.2195
+    },
+    {
+      "sat_id": "51888",
+      "sat_type": "CS",
+      "altitude": 546.8720750247458,
+      "inclination": 53.2166
+    },
+    {
+      "sat_id": "53247",
+      "sat_type": "CS",
+      "altitude": 546.8900845161115,
+      "inclination": 53.218
+    },
+    {
+      "sat_id": "53572",
+      "sat_type": "CS",
+      "altitude": 546.8899194591413,
+      "inclination": 53.2185
+    },
+    {
+      "sat_id": "53852",
+      "sat_type": "CS",
+      "altitude": 546.886211793124,
+      "inclination": 53.2164
+    },
+    {
+      "sat_id": "52471",
+      "sat_type": "CS",
+      "altitude": 546.9958238686868,
+      "inclination": 53.2159
+    },
+    {
+      "sat_id": "53716",
+      "sat_type": "CS",
+      "altitude": 546.8522194824036,
+      "inclination": 53.2181
+    },
+    {
+      "sat_id": "52576",
+      "sat_type": "CS",
+      "altitude": 546.870638427461,
+      "inclination": 53.2175
+    },
+    {
+      "sat_id": "53736",
+      "sat_type": "CS",
+      "altitude": 546.9414238248964,
+      "inclination": 53.2183
+    },
+    {
+      "sat_id": "53744",
+      "sat_type": "CS",
+      "altitude": 546.8908517254904,
+      "inclination": 53.2184
+    },
+    {
+      "sat_id": "53819",
+      "sat_type": "CS",
+      "altitude": 546.8953143818817,
+      "inclination": 53.2162
+    },
+    {
+      "sat_id": "53558",
+      "sat_type": "CS",
+      "altitude": 546.8591884681073,
+      "inclination": 53.217
+    },
+    {
+      "sat_id": "52876",
+      "sat_type": "CS",
+      "altitude": 546.8900722896688,
+      "inclination": 53.2171
+    }
+  ],
+  "task_visibility": {
+    "task_0": {
+      "target": [
+        45.03,
+        162.54
+      ],
+      "sats": {
+        "43802": [
+          3,
+          4
+        ],
+        "58296": [
+          30,
+          31
+        ],
+        "58285": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "62678": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60494": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "62645": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "62613": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60514": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60490": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "all_slots": [
+        3,
+        4,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "task_1": {
+      "target": [
+        -52.66,
+        -45.8
+      ],
+      "sats": {
+        "43802": [
+          17,
+          18
+        ],
+        "58285": [
+          46,
+          47
+        ],
+        "62678": [
+          46,
+          47,
+          48
+        ],
+        "60494": [
+          46,
+          47
+        ],
+        "62645": [
+          46,
+          47,
+          48
+        ],
+        "62613": [
+          46,
+          47,
+          48
+        ],
+        "60514": [
+          46,
+          47
+        ],
+        "60490": [
+          46,
+          47,
+          48
+        ]
+      },
+      "all_slots": [
+        17,
+        18,
+        46,
+        47,
+        48
+      ]
+    },
+    "task_2": {
+      "target": [
+        -28.83,
+        -40.72
+      ],
+      "sats": {
+        "43802": [
+          15,
+          16,
+          17
+        ],
+        "62678": [
+          45,
+          46
+        ],
+        "62645": [
+          45,
+          46
+        ],
+        "62613": [
+          45,
+          46
+        ]
+      },
+      "all_slots": [
+        15,
+        16,
+        17,
+        45,
+        46
+      ]
+    },
+    "task_3": {
+      "target": [
+        0.36,
+        -43.92
+      ],
+      "sats": {
+        "43802": [
+          40,
+          41
+        ]
+      },
+      "all_slots": [
+        40,
+        41
+      ]
+    },
+    "task_4": {
+      "target": [
+        5.96,
+        -23.28
+      ],
+      "sats": {
+        "43802": [
+          13,
+          14
+        ],
+        "62678": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "60494": [
+          40,
+          41,
+          42
+        ],
+        "62645": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "62613": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "60514": [
+          41,
+          42
+        ],
+        "60490": [
+          41,
+          42
+        ]
+      },
+      "all_slots": [
+        13,
+        14,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    "task_5": {
+      "target": [
+        -51.64,
+        156.66
+      ],
+      "sats": {
+        "43802": [
+          23,
+          24
+        ],
+        "58285": [
+          51,
+          52
+        ],
+        "62678": [
+          51,
+          52,
+          53
+        ],
+        "60494": [
+          51,
+          52,
+          53
+        ],
+        "62645": [
+          51,
+          52,
+          53
+        ],
+        "62613": [
+          51,
+          52,
+          53
+        ],
+        "60514": [
+          51,
+          52,
+          53
+        ],
+        "60490": [
+          51,
+          52,
+          53
+        ]
+      },
+      "all_slots": [
+        23,
+        24,
+        51,
+        52,
+        53
+      ]
+    },
+    "task_6": {
+      "target": [
+        -33.5,
+        150.65
+      ],
+      "sats": {
+        "43802": [
+          24,
+          25
+        ],
+        "58285": [
+          52,
+          53
+        ],
+        "62678": [
+          52,
+          53
+        ],
+        "60494": [
+          52,
+          53
+        ],
+        "62645": [
+          52,
+          53
+        ],
+        "62613": [
+          52,
+          53
+        ],
+        "60514": [
+          52,
+          53
+        ],
+        "60490": [
+          52,
+          53
+        ]
+      },
+      "all_slots": [
+        24,
+        25,
+        52,
+        53
+      ]
+    },
+    "task_7": {
+      "target": [
+        -11.68,
+        -22.8
+      ],
+      "sats": {
+        "43802": [
+          14,
+          15
+        ],
+        "58285": [
+          42,
+          43,
+          44
+        ],
+        "62678": [
+          42,
+          43,
+          44,
+          45
+        ],
+        "60494": [
+          42,
+          43,
+          44
+        ],
+        "62645": [
+          42,
+          43,
+          44,
+          45
+        ],
+        "62613": [
+          42,
+          43,
+          44,
+          45
+        ],
+        "60514": [
+          42,
+          43,
+          44
+        ],
+        "60490": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "all_slots": [
+        14,
+        15,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    "task_8": {
+      "target": [
+        11.05,
+        -55.35
+      ],
+      "sats": {
+        "43802": [
+          39,
+          40
+        ]
+      },
+      "all_slots": [
+        39,
+        40
+      ]
+    },
+    "task_9": {
+      "target": [
+        47.18,
+        116.96
+      ],
+      "sats": {
+        "43802": [
+          30,
+          31
+        ]
+      },
+      "all_slots": [
+        30,
+        31
+      ]
+    },
+    "task_10": {
+      "target": [
+        0.33,
+        164.43
+      ],
+      "sats": {
+        "43802": [
+          0,
+          1
+        ],
+        "62678": [
+          27,
+          28,
+          29
+        ],
+        "60494": [
+          27,
+          28,
+          29
+        ],
+        "62645": [
+          27,
+          28,
+          29
+        ],
+        "62613": [
+          27,
+          28,
+          29
+        ],
+        "60514": [
+          27,
+          28,
+          29
+        ],
+        "60490": [
+          27,
+          28,
+          29
+        ]
+      },
+      "all_slots": [
+        0,
+        1,
+        27,
+        28,
+        29
+      ]
+    },
+    "task_11": {
+      "target": [
+        40.93,
+        163.54
+      ],
+      "sats": {
+        "43802": [
+          3,
+          4
+        ],
+        "58296": [
+          30,
+          31
+        ],
+        "58285": [
+          30,
+          31
+        ],
+        "62678": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60494": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "62645": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "62613": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60514": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "60490": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "all_slots": [
+        3,
+        4,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "task_12": {
+      "target": [
+        -29.85,
+        137.24
+      ],
+      "sats": {
+        "43802": [
+          25,
+          26
+        ]
+      },
+      "all_slots": [
+        25,
+        26
+      ]
+    },
+    "task_13": {
+      "target": [
+        -58.19,
+        141.45
+      ],
+      "sats": {
+        "43802": [
+          23,
+          24,
+          49,
+          50
+        ],
+        "62678": [
+          51,
+          52
+        ],
+        "60494": [
+          51,
+          52
+        ],
+        "62645": [
+          51,
+          52
+        ],
+        "62613": [
+          51,
+          52
+        ],
+        "60514": [
+          51,
+          52
+        ],
+        "60490": [
+          51,
+          52
+        ]
+      },
+      "all_slots": [
+        23,
+        24,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "task_14": {
+      "target": [
+        28.66,
+        130.1
+      ],
+      "sats": {
+        "43802": [
+          29,
+          30
+        ]
+      },
+      "all_slots": [
+        29,
+        30
+      ]
+    },
+    "task_15": {
+      "target": [
+        -59.6,
+        152.92
+      ],
+      "sats": {
+        "43802": [
+          22,
+          23,
+          24,
+          49,
+          50
+        ],
+        "58285": [
+          50,
+          51
+        ],
+        "62678": [
+          51,
+          52
+        ],
+        "60494": [
+          50,
+          51,
+          52
+        ],
+        "62645": [
+          51,
+          52
+        ],
+        "62613": [
+          51,
+          52
+        ],
+        "60514": [
+          50,
+          51,
+          52
+        ],
+        "60490": [
+          50,
+          51,
+          52
+        ]
+      },
+      "all_slots": [
+        22,
+        23,
+        24,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "task_16": {
+      "target": [
+        48.46,
+        116.03
+      ],
+      "sats": {
+        "43802": [
+          30,
+          31
+        ]
+      },
+      "all_slots": [
+        30,
+        31
+      ]
+    },
+    "task_17": {
+      "target": [
+        -39.52,
+        -55.81
+      ],
+      "sats": {
+        "43802": [
+          44,
+          45
+        ]
+      },
+      "all_slots": [
+        44,
+        45
+      ]
+    },
+    "task_18": {
+      "target": [
+        -54.78,
+        -37.75
+      ],
+      "sats": {
+        "43802": [
+          17,
+          18
+        ],
+        "58285": [
+          46,
+          47
+        ],
+        "62678": [
+          46,
+          47,
+          48
+        ],
+        "60494": [
+          46,
+          47,
+          48
+        ],
+        "62645": [
+          46,
+          47,
+          48
+        ],
+        "62613": [
+          46,
+          47,
+          48
+        ],
+        "60514": [
+          46,
+          47,
+          48
+        ],
+        "60490": [
+          46,
+          47,
+          48
+        ]
+      },
+      "all_slots": [
+        17,
+        18,
+        46,
+        47,
+        48
+      ]
+    },
+    "task_19": {
+      "target": [
+        -22.62,
+        136.91
+      ],
+      "sats": {
+        "43802": [
+          25,
+          26
+        ]
+      },
+      "all_slots": [
+        25,
+        26
+      ]
+    },
+    "task_20": {
+      "target": [
+        8.06,
+        -26.08
+      ],
+      "sats": {
+        "43802": [
+          13,
+          14
+        ],
+        "62678": [
+          41,
+          42
+        ],
+        "60494": [
+          41,
+          42
+        ],
+        "62645": [
+          41,
+          42
+        ],
+        "62613": [
+          41,
+          42
+        ],
+        "60514": [
+          41,
+          42
+        ],
+        "60490": [
+          41,
+          42
+        ]
+      },
+      "all_slots": [
+        13,
+        14,
+        41,
+        42
+      ]
+    },
+    "task_21": {
+      "target": [
+        -28.35,
+        149.01
+      ],
+      "sats": {
+        "43802": [
+          25,
+          26
+        ]
+      },
+      "all_slots": [
+        25,
+        26
+      ]
+    },
+    "task_22": {
+      "target": [
+        -33.56,
+        -54.06
+      ],
+      "sats": {
+        "43802": [
+          42,
+          43,
+          44
+        ]
+      },
+      "all_slots": [
+        42,
+        43,
+        44
+      ]
+    },
+    "task_23": {
+      "target": [
+        -52.46,
+        -68.9
+      ],
+      "sats": {
+        "43802": [
+          45,
+          46
+        ]
+      },
+      "all_slots": [
+        45,
+        46
+      ]
+    },
+    "task_24": {
+      "target": [
+        59.39,
+        117.41
+      ],
+      "sats": {
+        "43802": [
+          31,
+          32,
+          33
+        ]
+      },
+      "all_slots": [
+        31,
+        32,
+        33
+      ]
+    },
+    "task_25": {
+      "target": [
+        29.78,
+        -41.45
+      ],
+      "sats": {
+        "43802": [
+          38,
+          39
+        ]
+      },
+      "all_slots": [
+        38,
+        39
+      ]
+    },
+    "task_26": {
+      "target": [
+        -35.9,
+        -40.2
+      ],
+      "sats": {
+        "43802": [
+          16,
+          17
+        ],
+        "62678": [
+          45,
+          46
+        ],
+        "60494": [
+          45,
+          46
+        ],
+        "62645": [
+          45,
+          46
+        ],
+        "62613": [
+          45,
+          46
+        ],
+        "60514": [
+          45,
+          46
+        ],
+        "60490": [
+          45,
+          46
+        ]
+      },
+      "all_slots": [
+        16,
+        17,
+        45,
+        46
+      ]
+    },
+    "task_27": {
+      "target": [
+        -0.35,
+        -30.63
+      ],
+      "sats": {
+        "43802": [
+          13,
+          14,
+          15
+        ],
+        "62678": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "60494": [
+          41,
+          42
+        ],
+        "62645": [
+          42,
+          43,
+          44
+        ],
+        "62613": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "60490": [
+          41,
+          42
+        ]
+      },
+      "all_slots": [
+        13,
+        14,
+        15,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    "task_28": {
+      "target": [
+        53.09,
+        -46.34
+      ],
+      "sats": {
+        "43802": [
+          36,
+          37,
+          38
+        ]
+      },
+      "all_slots": [
+        36,
+        37,
+        38
+      ]
+    },
+    "task_29": {
+      "target": [
+        49.62,
+        -18.13
+      ],
+      "sats": {
+        "43802": [
+          9,
+          10,
+          11
+        ],
+        "62678": [
+          38,
+          39
+        ],
+        "60494": [
+          37,
+          38,
+          39
+        ],
+        "62645": [
+          38,
+          39
+        ],
+        "62613": [
+          38,
+          39
+        ],
+        "60514": [
+          37,
+          38,
+          39
+        ],
+        "60490": [
+          37,
+          38,
+          39
+        ]
+      },
+      "all_slots": [
+        9,
+        10,
+        11,
+        37,
+        38,
+        39
+      ]
+    }
+  }
+}

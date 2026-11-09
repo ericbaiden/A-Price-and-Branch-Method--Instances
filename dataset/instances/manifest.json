@@ -1,0 +1,702 @@
+{
+  "0100_00": {
+    "graph_edges": 554218,
+    "graph_nodes": 161436,
+    "instance_sha256": "b207ec990801953fcbcdc617ab15170268810cb16f9ac72191ee86cf6732d98f",
+    "seed": 0,
+    "tasks": 100
+  },
+  "0100_01": {
+    "graph_edges": 553759,
+    "graph_nodes": 161420,
+    "instance_sha256": "341aca1d05be0b65e4e0a6256995a081579de781af9a7b3ca03cfc9dcdce98f3",
+    "seed": 1,
+    "tasks": 100
+  },
+  "0100_02": {
+    "graph_edges": 554936,
+    "graph_nodes": 161355,
+    "instance_sha256": "1af9fc3de8ac03d657397bdb7696fc59597646e6225b11c94b89b9c2c3f21907",
+    "seed": 2,
+    "tasks": 100
+  },
+  "0100_03": {
+    "graph_edges": 553758,
+    "graph_nodes": 161488,
+    "instance_sha256": "bcc6ec0a8da42fd5e86214d1d111143285d27d1a309281c5c318a25942698a54",
+    "seed": 3,
+    "tasks": 100
+  },
+  "0100_04": {
+    "graph_edges": 553876,
+    "graph_nodes": 161345,
+    "instance_sha256": "60bc511ed3fe4c100394cef062a24f1f44290003129c67bc456c755f7a8db875",
+    "seed": 4,
+    "tasks": 100
+  },
+  "0100_05": {
+    "graph_edges": 555845,
+    "graph_nodes": 161363,
+    "instance_sha256": "736e530c22c4a935de8a21bb72fb85274eae28700be8eb2e87c51323df7a4f20",
+    "seed": 5,
+    "tasks": 100
+  },
+  "0100_06": {
+    "graph_edges": 555417,
+    "graph_nodes": 161103,
+    "instance_sha256": "7b070b0e68243523e0456a2b70e96030bb4304037208028be2e0e7cecb1b0554",
+    "seed": 6,
+    "tasks": 100
+  },
+  "0100_07": {
+    "graph_edges": 556814,
+    "graph_nodes": 161462,
+    "instance_sha256": "299a56808ebd8a4cd8ced7a8e7d91a99a9a686e253b92f73cff7a75a2bf0f64e",
+    "seed": 7,
+    "tasks": 100
+  },
+  "0100_08": {
+    "graph_edges": 553813,
+    "graph_nodes": 161397,
+    "instance_sha256": "220f0e552e498e5f1422771507d4db88041cae1b35a245147f1b569b3f12faca",
+    "seed": 8,
+    "tasks": 100
+  },
+  "0100_09": {
+    "graph_edges": 554071,
+    "graph_nodes": 161305,
+    "instance_sha256": "07a9be2a5bdbf3a63eed41144d7ad8677864fcd59b4b95bf9f094292077e942b",
+    "seed": 9,
+    "tasks": 100
+  },
+  "0200_00": {
+    "graph_edges": 570305,
+    "graph_nodes": 164071,
+    "instance_sha256": "e7352f8af77405fc6dcbf5cce2666640bbc9f04a34f25279b9e853fa07a94515",
+    "seed": 0,
+    "tasks": 200
+  },
+  "0200_01": {
+    "graph_edges": 569239,
+    "graph_nodes": 164228,
+    "instance_sha256": "463a4da35cb51f26ead73f9bcb90707e5c8dc6d6bee193f176cff5b778a4eb56",
+    "seed": 1,
+    "tasks": 200
+  },
+  "0200_02": {
+    "graph_edges": 568388,
+    "graph_nodes": 163959,
+    "instance_sha256": "daa5e580ee7fa23ad01638a2d15c773b4beed73806fe5674fb7a07f4dfae5661",
+    "seed": 2,
+    "tasks": 200
+  },
+  "0200_03": {
+    "graph_edges": 569445,
+    "graph_nodes": 164391,
+    "instance_sha256": "415ab7455250dc432e203bb172ba374d7ddcba48eeaeb36e53bde5fd9e2489b1",
+    "seed": 3,
+    "tasks": 200
+  },
+  "0200_04": {
+    "graph_edges": 571890,
+    "graph_nodes": 163987,
+    "instance_sha256": "5589fc626b16a589f27e70db5da973a7172d4e056f163065a7bb993f02954e77",
+    "seed": 4,
+    "tasks": 200
+  },
+  "0200_05": {
+    "graph_edges": 568818,
+    "graph_nodes": 163980,
+    "instance_sha256": "b6af8dfda8861fef0744f590588e477d5fa88fc80af668971f2e1a0ab21fa513",
+    "seed": 5,
+    "tasks": 200
+  },
+  "0200_06": {
+    "graph_edges": 572183,
+    "graph_nodes": 163933,
+    "instance_sha256": "2366872944b6c19fd8e330485a3f5ffb9e63a23adecb1dfe45019d738382889e",
+    "seed": 6,
+    "tasks": 200
+  },
+  "0200_07": {
+    "graph_edges": 569417,
+    "graph_nodes": 163683,
+    "instance_sha256": "87a7290dc8278e602a49a3feb5b97fc72b750d92accf0e8ac0633e9ba0114f3b",
+    "seed": 7,
+    "tasks": 200
+  },
+  "0200_08": {
+    "graph_edges": 568863,
+    "graph_nodes": 163873,
+    "instance_sha256": "2314d984ffa0a0614640abdf6eec58531f331a2200dcc6e8c8f5246808771ac1",
+    "seed": 8,
+    "tasks": 200
+  },
+  "0200_09": {
+    "graph_edges": 568681,
+    "graph_nodes": 163998,
+    "instance_sha256": "b4594a06d77e7866754ee8400d42c064a6b6c489ce3b71b4dd3dbf109808b6e0",
+    "seed": 9,
+    "tasks": 200
+  },
+  "0300_00": {
+    "graph_edges": 589160,
+    "graph_nodes": 166788,
+    "instance_sha256": "11185ba6959861fb04c33148d30cb999d6feacf5be915fcdb1cff7ecaee4f8b5",
+    "seed": 0,
+    "tasks": 300
+  },
+  "0300_01": {
+    "graph_edges": 587904,
+    "graph_nodes": 167029,
+    "instance_sha256": "1c7afb2e35747cc079bb1cf92ac7657b4efad52c8afa829ba8f54dcdf566debc",
+    "seed": 1,
+    "tasks": 300
+  },
+  "0300_02": {
+    "graph_edges": 587750,
+    "graph_nodes": 166860,
+    "instance_sha256": "ddc56121f8969df155fcac5a8da443fbd9858a6e8f3398c1245603632d3fffcc",
+    "seed": 2,
+    "tasks": 300
+  },
+  "0300_03": {
+    "graph_edges": 585696,
+    "graph_nodes": 166853,
+    "instance_sha256": "41382bc75da11f2c71f25f563ad12bc67ec38724a802f8a39cd143e2a916039f",
+    "seed": 3,
+    "tasks": 300
+  },
+  "0300_04": {
+    "graph_edges": 590794,
+    "graph_nodes": 166954,
+    "instance_sha256": "25fc13d6f6e15bf3a9c13e42a40dcf4812f7e2f1a1eeea96ce2a717cc21a0f9a",
+    "seed": 4,
+    "tasks": 300
+  },
+  "0300_05": {
+    "graph_edges": 588348,
+    "graph_nodes": 167121,
+    "instance_sha256": "55fc63db9186eaf4d0dd5b8f4a398cdd2253f2aafc201b92d6073cff5255b250",
+    "seed": 5,
+    "tasks": 300
+  },
+  "0300_06": {
+    "graph_edges": 586507,
+    "graph_nodes": 167050,
+    "instance_sha256": "44e6f866e9325e8a060170893a4eee403665f49fba2044572ba8732a99be0671",
+    "seed": 6,
+    "tasks": 300
+  },
+  "0300_07": {
+    "graph_edges": 586700,
+    "graph_nodes": 166646,
+    "instance_sha256": "12929e39a9ef518f5165d1f4cc1d227cbf2b39f15b8d25b5da0e562b7cae683e",
+    "seed": 7,
+    "tasks": 300
+  },
+  "0300_08": {
+    "graph_edges": 589069,
+    "graph_nodes": 166821,
+    "instance_sha256": "582f6a01d0bf5b96e7204bfe972be34d448d3d13826db725de0b88988f452a18",
+    "seed": 8,
+    "tasks": 300
+  },
+  "0300_09": {
+    "graph_edges": 584373,
+    "graph_nodes": 167092,
+    "instance_sha256": "db179b55554770779719f6b09637f3e5ff3511a1f8bd71d58a00c36e2c7dbc45",
+    "seed": 9,
+    "tasks": 300
+  },
+  "0400_00": {
+    "graph_edges": 603741,
+    "graph_nodes": 169974,
+    "instance_sha256": "07ca4413f497cdd6c4074114733b93dcc9c07590a869bb4498b854b7e4b7cdfc",
+    "seed": 0,
+    "tasks": 400
+  },
+  "0400_01": {
+    "graph_edges": 599339,
+    "graph_nodes": 169196,
+    "instance_sha256": "e1673673b47eb2a06a69dd1002600028b9178b663977d061dcc6ba979a455835",
+    "seed": 1,
+    "tasks": 400
+  },
+  "0400_02": {
+    "graph_edges": 602707,
+    "graph_nodes": 169600,
+    "instance_sha256": "4efed6d240618c0eea112604713d9f223a60c7bb1548cf0eafe6d53d9e5300be",
+    "seed": 2,
+    "tasks": 400
+  },
+  "0400_03": {
+    "graph_edges": 604715,
+    "graph_nodes": 169892,
+    "instance_sha256": "ef7ff17d5fa0b2fd45f0b37281ef8b20e1409e6e0f97aca0660a8b7ab1a82bff",
+    "seed": 3,
+    "tasks": 400
+  },
+  "0400_04": {
+    "graph_edges": 604953,
+    "graph_nodes": 169702,
+    "instance_sha256": "18e021a23e58b06a22c15eab47265fb3515b6b314937bfdeee46d94baf3ae10f",
+    "seed": 4,
+    "tasks": 400
+  },
+  "0400_05": {
+    "graph_edges": 603471,
+    "graph_nodes": 169809,
+    "instance_sha256": "d0e25e76bd27b0c6b1065e2b47ef84a9870d9990112544c179d1d381235c649f",
+    "seed": 5,
+    "tasks": 400
+  },
+  "0400_06": {
+    "graph_edges": 606112,
+    "graph_nodes": 169853,
+    "instance_sha256": "e5adfbd535bb0f657eac6a029d5c04f9d69d7261c41953937dc16c3446c55590",
+    "seed": 6,
+    "tasks": 400
+  },
+  "0400_07": {
+    "graph_edges": 605529,
+    "graph_nodes": 169707,
+    "instance_sha256": "1c497b41d1cfc0937d6aa9573bff71da4605b34fe7d0d70d42bf49d46fbb457e",
+    "seed": 7,
+    "tasks": 400
+  },
+  "0400_08": {
+    "graph_edges": 600009,
+    "graph_nodes": 169722,
+    "instance_sha256": "159ebc468238ad67bfb1b4a8478641017f85f27cee0ef0796799c9cc40617789",
+    "seed": 8,
+    "tasks": 400
+  },
+  "0400_09": {
+    "graph_edges": 601219,
+    "graph_nodes": 169325,
+    "instance_sha256": "4e1569d168c3a799351e5129365a16a819ec44a33b49748da540bacb30339373",
+    "seed": 9,
+    "tasks": 400
+  },
+  "0500_00": {
+    "graph_edges": 616835,
+    "graph_nodes": 172144,
+    "instance_sha256": "70850452819e3c7bbdc2e4a51d4a385de1d85f259301660a888e4446aaf774b9",
+    "seed": 0,
+    "tasks": 500
+  },
+  "0500_01": {
+    "graph_edges": 618244,
+    "graph_nodes": 172079,
+    "instance_sha256": "b9360e0ecf4571b287039fbbf672877adc49d83d7b7568ce57050d0f6ef8db35",
+    "seed": 1,
+    "tasks": 500
+  },
+  "0500_02": {
+    "graph_edges": 613647,
+    "graph_nodes": 171945,
+    "instance_sha256": "e40fa4d194111e76ef0ba5842560e18c8983309c28995f82ab6200c2d5ddc343",
+    "seed": 2,
+    "tasks": 500
+  },
+  "0500_03": {
+    "graph_edges": 617353,
+    "graph_nodes": 172470,
+    "instance_sha256": "c8829f236a487af3dea3e1530bfa1d838636a30119d188c42559ef114eb87a64",
+    "seed": 3,
+    "tasks": 500
+  },
+  "0500_04": {
+    "graph_edges": 619502,
+    "graph_nodes": 172559,
+    "instance_sha256": "26b11779af05c770fca93dd2fe20c607fa5e1045236cf93e92b8e2098dde95cc",
+    "seed": 4,
+    "tasks": 500
+  },
+  "0500_05": {
+    "graph_edges": 622322,
+    "graph_nodes": 172236,
+    "instance_sha256": "2fa00b7a572f093c7233442d2da133f2830c497ca575e276a75a7b8423db42ad",
+    "seed": 5,
+    "tasks": 500
+  },
+  "0500_06": {
+    "graph_edges": 625424,
+    "graph_nodes": 172073,
+    "instance_sha256": "5593ef667972c4d5eb7d33b191037864ec8e3f31a5a490b32e0f88d671e0c441",
+    "seed": 6,
+    "tasks": 500
+  },
+  "0500_07": {
+    "graph_edges": 623162,
+    "graph_nodes": 172350,
+    "instance_sha256": "5c64e9170a8986a7973329266753c36da5eac738d78eea750bf89cde5005ec50",
+    "seed": 7,
+    "tasks": 500
+  },
+  "0500_08": {
+    "graph_edges": 618033,
+    "graph_nodes": 172134,
+    "instance_sha256": "c4ef3f54835c54d9fa12283baa766eef5216f0130ba6bdfaf708be86e9e0c45c",
+    "seed": 8,
+    "tasks": 500
+  },
+  "0500_09": {
+    "graph_edges": 617456,
+    "graph_nodes": 172099,
+    "instance_sha256": "c36eea5759eac719a824342fe055aad9fd3b8ad0aa6196f447be57237001a364",
+    "seed": 9,
+    "tasks": 500
+  },
+  "0600_00": {
+    "graph_edges": 629971,
+    "graph_nodes": 175131,
+    "instance_sha256": "bc4ecbb336fbc1aa27d25a2e861b755b41e9873ee8895f92074cf9ae9b280024",
+    "seed": 0,
+    "tasks": 600
+  },
+  "0600_01": {
+    "graph_edges": 629834,
+    "graph_nodes": 175186,
+    "instance_sha256": "788937dc3be00e3639ef594d6a631039789312b6ef7a2c5ed8838f1a085abd96",
+    "seed": 1,
+    "tasks": 600
+  },
+  "0600_02": {
+    "graph_edges": 629362,
+    "graph_nodes": 174914,
+    "instance_sha256": "644b8bfc81afdc9d38aabd7a56015bd55f017001b2ab48c63320d34bc2f58406",
+    "seed": 2,
+    "tasks": 600
+  },
+  "0600_03": {
+    "graph_edges": 633964,
+    "graph_nodes": 175360,
+    "instance_sha256": "0928acc016385c48b47ae393782ad69e7583b6369432085a4e3ba1f0b74f3b6e",
+    "seed": 3,
+    "tasks": 600
+  },
+  "0600_04": {
+    "graph_edges": 636753,
+    "graph_nodes": 175260,
+    "instance_sha256": "3c992666e9f849c147dffd486c893b49e0db3116fc0ca313899fa1ebb505565d",
+    "seed": 4,
+    "tasks": 600
+  },
+  "0600_05": {
+    "graph_edges": 639730,
+    "graph_nodes": 174991,
+    "instance_sha256": "80d4d4b0ec76b92463fcb243e07bccf57a53e76cfca83113e6fe163ee1dd888a",
+    "seed": 5,
+    "tasks": 600
+  },
+  "0600_06": {
+    "graph_edges": 634638,
+    "graph_nodes": 175193,
+    "instance_sha256": "dc39b7fb5bfc0d47e0068bf789effa5892acc4e75b7d82ff46e30c4df6ef7bf0",
+    "seed": 6,
+    "tasks": 600
+  },
+  "0600_07": {
+    "graph_edges": 634205,
+    "graph_nodes": 174783,
+    "instance_sha256": "3309089be798cb6a3e827e59702e2d1608d68877f8c3dca6f8f501654ea2f984",
+    "seed": 7,
+    "tasks": 600
+  },
+  "0600_08": {
+    "graph_edges": 631177,
+    "graph_nodes": 175041,
+    "instance_sha256": "fac0f028c5c09a10e1889106bc0bc01de78ffd05874329f44363438acaad062c",
+    "seed": 8,
+    "tasks": 600
+  },
+  "0600_09": {
+    "graph_edges": 625465,
+    "graph_nodes": 174860,
+    "instance_sha256": "52e82aadd04906c648a1e990e261d3bdb840be78d3f5fdbf7930b919b8ece5b2",
+    "seed": 9,
+    "tasks": 600
+  },
+  "0700_00": {
+    "graph_edges": 653306,
+    "graph_nodes": 178212,
+    "instance_sha256": "221c08a5b301d6ac7e26282d87661252b333313f95583f4e69a08a291088e966",
+    "seed": 0,
+    "tasks": 700
+  },
+  "0700_01": {
+    "graph_edges": 650485,
+    "graph_nodes": 177790,
+    "instance_sha256": "3548d64e792421855ac925deafd3c4b0c8e86c207fc293098f12feff5ea8cb71",
+    "seed": 1,
+    "tasks": 700
+  },
+  "0700_02": {
+    "graph_edges": 639384,
+    "graph_nodes": 177912,
+    "instance_sha256": "318bac1807481e7ede9cc708cd1573231ea5aaa4888dfc15e7b8c57f9b45b188",
+    "seed": 2,
+    "tasks": 700
+  },
+  "0700_03": {
+    "graph_edges": 649398,
+    "graph_nodes": 178027,
+    "instance_sha256": "1a7e3dc49655922a2c68674d3a36b910f04ef17d9ccefb0aa3e60acca27b5a85",
+    "seed": 3,
+    "tasks": 700
+  },
+  "0700_04": {
+    "graph_edges": 656368,
+    "graph_nodes": 178099,
+    "instance_sha256": "2a282bb41bea100b88a80c9bf3a07f05f01fd4c9b89ccc2c45874316da7b8e44",
+    "seed": 4,
+    "tasks": 700
+  },
+  "0700_05": {
+    "graph_edges": 654101,
+    "graph_nodes": 177963,
+    "instance_sha256": "a3f87d70717131d0e3d2213b992915828de689133d40b1928bf6068aa8636a1d",
+    "seed": 5,
+    "tasks": 700
+  },
+  "0700_06": {
+    "graph_edges": 646788,
+    "graph_nodes": 177800,
+    "instance_sha256": "057bc4773205c770d8a8e69e8b434389d6d591eb026b20dbf9b66ef9abfc1f65",
+    "seed": 6,
+    "tasks": 700
+  },
+  "0700_07": {
+    "graph_edges": 647215,
+    "graph_nodes": 177970,
+    "instance_sha256": "f24f38952f0e5b9b0c3ae5fd77e834179c566a7f251f1f2b19b0e6fb0f423913",
+    "seed": 7,
+    "tasks": 700
+  },
+  "0700_08": {
+    "graph_edges": 648770,
+    "graph_nodes": 178039,
+    "instance_sha256": "f6ba8eb99fc9dcfc35115c86677545895bc425f04755e8172b89ad369e27888c",
+    "seed": 8,
+    "tasks": 700
+  },
+  "0700_09": {
+    "graph_edges": 650210,
+    "graph_nodes": 178129,
+    "instance_sha256": "05b0a640d3961d61bbdf9311e03914e9a9a79338def356ca81c8e11165f7e8f1",
+    "seed": 9,
+    "tasks": 700
+  },
+  "0800_00": {
+    "graph_edges": 669394,
+    "graph_nodes": 180869,
+    "instance_sha256": "abc0227bac8aa12c712344574c47097f43b35f06f7ea24690e85b0e3117da656",
+    "seed": 0,
+    "tasks": 800
+  },
+  "0800_01": {
+    "graph_edges": 666583,
+    "graph_nodes": 180568,
+    "instance_sha256": "e9cfc0337f551b56185e4f12272af220431c79afb9f011f9c3a841ab557f8021",
+    "seed": 1,
+    "tasks": 800
+  },
+  "0800_02": {
+    "graph_edges": 664182,
+    "graph_nodes": 180384,
+    "instance_sha256": "86ea37b1cfb46aee24381798fc794f9a464c5cfa24ac5a7de820efeab3998aa1",
+    "seed": 2,
+    "tasks": 800
+  },
+  "0800_03": {
+    "graph_edges": 658742,
+    "graph_nodes": 180350,
+    "instance_sha256": "7e0312e73c04ec103bfef3295bca88bbe0029ead20c9207ac42677773b548760",
+    "seed": 3,
+    "tasks": 800
+  },
+  "0800_04": {
+    "graph_edges": 664071,
+    "graph_nodes": 180444,
+    "instance_sha256": "dfbbdca58ae7041d337fbcbf85f345dc73d08c53872aff1b4bcd88c0bd82fed8",
+    "seed": 4,
+    "tasks": 800
+  },
+  "0800_05": {
+    "graph_edges": 670967,
+    "graph_nodes": 180914,
+    "instance_sha256": "ab794a8359f018f8ae3dda3ad6d9d6705098022bc504bc0b2f3d22863e98a963",
+    "seed": 5,
+    "tasks": 800
+  },
+  "0800_06": {
+    "graph_edges": 665109,
+    "graph_nodes": 180570,
+    "instance_sha256": "67415f414139ba29fdb62e6240120a7424420af99e6a5ded6d0aed612453fb5d",
+    "seed": 6,
+    "tasks": 800
+  },
+  "0800_07": {
+    "graph_edges": 673130,
+    "graph_nodes": 180661,
+    "instance_sha256": "7903a554397a9b2ac346601fb6e2de59e3d428f147edfa2081157f8599edf443",
+    "seed": 7,
+    "tasks": 800
+  },
+  "0800_08": {
+    "graph_edges": 667853,
+    "graph_nodes": 180500,
+    "instance_sha256": "df19bbd252ed373b178fc4634c2f0b6e429172d972209c77e162bec357af8ea8",
+    "seed": 8,
+    "tasks": 800
+  },
+  "0800_09": {
+    "graph_edges": 666578,
+    "graph_nodes": 180772,
+    "instance_sha256": "9c1d4f53c212840835169eddb240fd8e9ada43b3a36320eaaa7ce188c3a05d30",
+    "seed": 9,
+    "tasks": 800
+  },
+  "0900_00": {
+    "graph_edges": 679395,
+    "graph_nodes": 183742,
+    "instance_sha256": "22fac7b0097dc91a74a1a9d2f35ab23f28459f6690328ade9dddfafb6fbca1b5",
+    "seed": 0,
+    "tasks": 900
+  },
+  "0900_01": {
+    "graph_edges": 684227,
+    "graph_nodes": 183287,
+    "instance_sha256": "539ff3c696b4e7b68cdbf787826a14f99462df564f7247f09369e564646d647a",
+    "seed": 1,
+    "tasks": 900
+  },
+  "0900_02": {
+    "graph_edges": 683339,
+    "graph_nodes": 183426,
+    "instance_sha256": "9a885d6a06b348b7dc8b258ba1a737b4644274d9108476d2ecbf27712e0abb8e",
+    "seed": 2,
+    "tasks": 900
+  },
+  "0900_03": {
+    "graph_edges": 675843,
+    "graph_nodes": 183007,
+    "instance_sha256": "3eca8c5238aaaffa10f9acd2f93d762b2fb80b3233fbf9237c26d5712f2fda85",
+    "seed": 3,
+    "tasks": 900
+  },
+  "0900_04": {
+    "graph_edges": 681418,
+    "graph_nodes": 183409,
+    "instance_sha256": "c23f4c526b6bd1e1a50084fe748be07215dc1f055756cba74ddaeea6accc92c4",
+    "seed": 4,
+    "tasks": 900
+  },
+  "0900_05": {
+    "graph_edges": 689176,
+    "graph_nodes": 183449,
+    "instance_sha256": "a360d33d44c7bc4c0c98d4774fda3a74a13b37ef6b98783ef087cfd23e39d7b5",
+    "seed": 5,
+    "tasks": 900
+  },
+  "0900_06": {
+    "graph_edges": 683518,
+    "graph_nodes": 183330,
+    "instance_sha256": "ae79d8748c00518c829c902ac1abdbd0745b771acc5e249d285e7ab845d0ddfc",
+    "seed": 6,
+    "tasks": 900
+  },
+  "0900_07": {
+    "graph_edges": 682731,
+    "graph_nodes": 183554,
+    "instance_sha256": "a0fb363fe45dd678de331b2f04c42d9bd8b4eafd16804657221cb311348bdbdd",
+    "seed": 7,
+    "tasks": 900
+  },
+  "0900_08": {
+    "graph_edges": 684014,
+    "graph_nodes": 183394,
+    "instance_sha256": "7de290a8fe8209f7c9b4b08359e7ef16c9860360844b6dc5e6e50fe24a76e632",
+    "seed": 8,
+    "tasks": 900
+  },
+  "0900_09": {
+    "graph_edges": 684140,
+    "graph_nodes": 183394,
+    "instance_sha256": "972ea7cdb95f4c243641232380ea38b7db7725d6fa88aac0d4589916d89bd72d",
+    "seed": 9,
+    "tasks": 900
+  },
+  "1000_00": {
+    "graph_edges": 696418,
+    "graph_nodes": 186473,
+    "instance_sha256": "050f382315145a53b758339b3de39dbc05f9d571f864f0da6c430e6c5b63d24e",
+    "seed": 0,
+    "tasks": 1000
+  },
+  "1000_01": {
+    "graph_edges": 701387,
+    "graph_nodes": 186038,
+    "instance_sha256": "9f6e8731fbc20ca7dfdd0373e8c9366f5285c91d896055d01d8c69721f1e8323",
+    "seed": 1,
+    "tasks": 1000
+  },
+  "1000_02": {
+    "graph_edges": 698436,
+    "graph_nodes": 186237,
+    "instance_sha256": "87042688d7f07f5cb9a8dd69a38d3801951934f3940b3a0c3c0486b95b07aa0a",
+    "seed": 2,
+    "tasks": 1000
+  },
+  "1000_03": {
+    "graph_edges": 693399,
+    "graph_nodes": 185756,
+    "instance_sha256": "cf598d024f401b1e1bc11a083874a14c4389b8d7e0f12981df5394339554101c",
+    "seed": 3,
+    "tasks": 1000
+  },
+  "1000_04": {
+    "graph_edges": 693402,
+    "graph_nodes": 186125,
+    "instance_sha256": "ea56ee3abd87421f7687e5c019e5df34c4b6b826cbf4d02cde59ab2add819231",
+    "seed": 4,
+    "tasks": 1000
+  },
+  "1000_05": {
+    "graph_edges": 705177,
+    "graph_nodes": 186244,
+    "instance_sha256": "709beae02011016c15caae31b59d011cde67da43a9afeb31cf757999a7456326",
+    "seed": 5,
+    "tasks": 1000
+  },
+  "1000_06": {
+    "graph_edges": 698926,
+    "graph_nodes": 185931,
+    "instance_sha256": "582faf1e39724b3de17c9d6aa9dd90a3c01f8e264a8a9f51221224c46dc23038",
+    "seed": 6,
+    "tasks": 1000
+  },
+  "1000_07": {
+    "graph_edges": 697636,
+    "graph_nodes": 186303,
+    "instance_sha256": "e433cb056f693769e24f8b3c793926065b4ce243419e0bb8b36424cdc2ba69be",
+    "seed": 7,
+    "tasks": 1000
+  },
+  "1000_08": {
+    "graph_edges": 699653,
+    "graph_nodes": 186088,
+    "instance_sha256": "e4eac9b415c4cba6f0d53fd31f942d6471ae9ab4d4ef1c158c52ffa506065760",
+    "seed": 8,
+    "tasks": 1000
+  },
+  "1000_09": {
+    "graph_edges": 701262,
+    "graph_nodes": 186146,
+    "instance_sha256": "4085adf315b5985f7f4ac16033f38db0b0c84b4873093d734a0109b50028f949",
+    "seed": 9,
+    "tasks": 1000
+  }
+}

@@ -1,0 +1,5 @@
+*.npz binary
+*.json.gz binary
+*.tle -text
+instances/** -text
+dataset/instances/** -text
